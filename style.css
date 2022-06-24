@@ -1,0 +1,49 @@
+.padre{
+    height: 350px;
+    width: 500px;
+    position: relative;
+    background-color: white;
+    left: 350px;
+    /* top: 30px; */
+    bottom: 0px;
+}
+.gris{
+    height: 200px;
+    width: 250px;
+    background-color: gray;
+    border: gray;
+    opacity: .5;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+
+.azul{
+    height: 100px;
+    width: 430px;
+    background-color: rgb(50, 50, 219, .2);
+    position: absolute;
+    bottom: 0px;
+    left: 20px;
+
+}
+
+.verde{
+    height: 320px;
+    width: 90px;
+    background-color: rgba(49, 187, 49, 0.3);
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
+
+.rojo{
+    height: 200px;
+    width: 200px;
+    background-color: rgba(245, 91, 91, 0.4);
+    position: absolute;
+    right: 80px;
+    left: 140px;
+    top: 100px;
+
+}
